@@ -3,9 +3,9 @@ from telegram import ParseMode
 from telegram.ext import Defaults, Updater, PrefixHandler
 
 
-COINBASE_KEY = 'YourKey'
-COINBASE_SECRET = 'YourSecret'
-TELEGRAM_TOKEN = 'YourTelegramBotToken'
+COINBASE_KEY = 'u3Zz9wPzKENzPHcY'
+COINBASE_SECRET = 'R5mOZ3lJrswevm3GvXjea2FYz6nrC3PT'
+TELEGRAM_TOKEN = '5495017780:AAE_dZ_eSRbLpsFwPzRBH2Hg7dopez3mAik'
 
 coinbase_client = Client(COINBASE_KEY, COINBASE_SECRET)
 
