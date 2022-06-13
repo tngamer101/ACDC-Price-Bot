@@ -5,7 +5,7 @@ from telegram.ext import Defaults, Updater, PrefixHandler
 
 COINBASE_KEY = 'u3Zz9wPzKENzPHcY'
 COINBASE_SECRET = 'R5mOZ3lJrswevm3GvXjea2FYz6nrC3PT'
-TELEGRAM_TOKEN = '5495017780:AAE_dZ_eSRbLpsFwPzRBH2Hg7dopez3mAik'
+TELEGRAM_TOKEN = '5388299331:AAFrgi9jTgRPPFFdJUtsEB5p8a86oopYJx0'
 
 coinbase_client = Client(COINBASE_KEY, COINBASE_SECRET)
 
